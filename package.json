@@ -27,7 +27,8 @@
 
   "bin": {
     "hubot": "./bin/hubot"
-  }
+  },
+
   "engines": {
     "node": "0.6.x",
     "npm": "1.0.x"
