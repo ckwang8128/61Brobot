@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n brobot
+app: bin/hubot -a campfire -n brobot
